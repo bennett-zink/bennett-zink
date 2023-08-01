@@ -33,21 +33,23 @@ Description about me ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bennett-zink&layout=donut&border_radius=15)](https://github.com/bennett-zink/github-readme-stats)
 
-<br />
-
-[![Bennett's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bennett-zink&theme=minimal)](https://github.com/bennettzink/github-readme-activity-graph)
-
-
 <!--https://github.com/anuraghazra/github-readme-stats-->
 
+<br />
 
 #
 
 ### Connect
 
+<a href="https://www.linkedin.com/in/bennett-zink/" target="_blank"><img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
 
 
-#
+
+<br />
+
+
+
 
 
 
