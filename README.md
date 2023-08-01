@@ -5,6 +5,10 @@ I am currently a junior at the University of Michigan pursuing a bachelor's degr
 and a minor in 
 <a href="https://ent-minor.umich.edu/" target="_blank"> Entrepreneurship. </a> 
 
+</br>
+
+See more at
+<a href="https://bennettzink.com/" target="_blank"> bennettzink.com </a> 
 
 #
                                                     
