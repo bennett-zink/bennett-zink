@@ -1,8 +1,10 @@
 ### Bennett Zink
 
+Description about me ...
+
 #
                                                     
-### 🧰 Languages and Tools
+### Languages 
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -12,6 +14,13 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+<br />
+<br />
+
+### Dev Ops
+
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Mac" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
@@ -22,10 +31,12 @@
 
 ### 📊 Stats
 
-![Bennett's GitHub stats](https://github-readme-stats.vercel.app/api?username=bennett-zink&show_icons=true&theme=default&rank_icon=github)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bennett-zink&layout=donut&border_radius=15)](https://github.com/bennett-zink/github-readme-stats)
+
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bennett-zink&layout=donut)](https://github.com/bennett-zink/github-readme-stats)
+[![Bennett's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bennett-zink&theme=minimal)](https://github.com/bennettzink/github-readme-activity-graph)
+
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
 
