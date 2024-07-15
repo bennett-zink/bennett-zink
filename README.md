@@ -19,16 +19,6 @@ See more at
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
 
-#
-### Connect
-
-<a href="https://www.linkedin.com/in/bennett-zink/" target="_blank"><img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
-
-
-
-<br />
--->
 
 
 
