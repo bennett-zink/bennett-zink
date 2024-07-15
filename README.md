@@ -10,8 +10,6 @@ and a minor in
 See more at
 <a href="https://bennettzink.com/" target="_blank"> bennettzink.com </a> 
 
-#
-
 <!--
 #
 
