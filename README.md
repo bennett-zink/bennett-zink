@@ -1,13 +1,5 @@
 # Bennett Zink
 
-Senior at the University of Michigan pursuing a bachelor's degree in 
-<a href="https://cse.engin.umich.edu/academics/undergraduate/programs/computer-science-eng/" target="_blank"> Computer Science </a> 
-and a minor in 
-<a href="https://ent-minor.umich.edu/" target="_blank"> Entrepreneurship. </a> 
-
-</br>
-
-See more at
 <a href="https://bennettzink.com/" target="_blank"> bennettzink.com </a> 
 
 <!--
